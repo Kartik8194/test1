@@ -1,2 +1,2 @@
-"feature 7added" 
+"feature 7added+bugfix" 
 "feature 7 added again" 
